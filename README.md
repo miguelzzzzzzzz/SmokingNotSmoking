@@ -22,6 +22,10 @@ This is a simple application that uses a pre-trained model to classify images as
 7. Click the **SCAN** button to initiate the smoking detection process.
 8. The result label will display the prediction result, indicating whether the image contains smoking or not.
 
+
+
+
+
 ## Code Explanation
 
 - The code uses the `tkinter` library to create the GUI elements.
@@ -34,6 +38,16 @@ This is a simple application that uses a pre-trained model to classify images as
 - The `predict_image` method processes the selected image and performs smoking detection using the pre-trained model. The result is displayed in the GUI.
 - The `run` method starts the main event loop of the GUI.
 - The `__main__` block creates an instance of the `SmokingDetector` class and runs the application.
+
+
+## Training Visuals
+
+![image](https://github.com/miguelzzzzzzzz/SmokingNotSmoking/assets/120352678/6f0b3af8-edff-4324-b767-5fa6ffd0c87c)
+![image](https://github.com/miguelzzzzzzzz/SmokingNotSmoking/assets/120352678/1531bf57-39f1-447f-aba8-2e0cafe7550c)
+![image](https://github.com/miguelzzzzzzzz/SmokingNotSmoking/assets/120352678/7359702a-34b7-4acb-b9b7-8c85f539bea9)
+![image](https://github.com/miguelzzzzzzzz/SmokingNotSmoking/assets/120352678/c6fab9a7-fd94-43df-ae54-7932b4b9e050)
+![image](https://github.com/miguelzzzzzzzz/SmokingNotSmoking/assets/120352678/0e8324fc-450d-4c77-ba6c-26d9784d38a8)
+
 
 ## License
 
