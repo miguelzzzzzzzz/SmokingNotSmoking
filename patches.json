@@ -4,8 +4,16 @@
         "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
+        "address": "0x118A28",
+        "data": "3A 21 CA 15 FC 6F 03 A9"
+    },
+    {
         "address": "0x134EF8",
         "data": "00 00 80 D2 C0 03 5F D6"
+    },
+    {
+        "address": "0x13A0B0",
+        "data": "E8 03 13 2A 81 9E C9 15"
     },
     {
         "address": "0x17E640",
@@ -18,6 +26,26 @@
     {
         "address": "0x217F60",
         "data": "00 00 80 D2 C0 03 5F D6"
+    },
+    {
+        "address": "0x240928",
+        "data": "C0 03 5F D6 63 84 C5 15"
+    },
+    {
+        "address": "0x242B58",
+        "data": "D8 7B C5 15 FD 7B 09 A9"
+    },
+    {
+        "address": "0x243FE8",
+        "data": "56 6C FA 97 B3 76 C5 15"
+    },
+    {
+        "address": "0x555820",
+        "data": "1E 00 00 00 24 00 00 00"
+    },
+    {
+        "address": "0x592C50",
+        "data": "00 00 00 00 00 00 00 00"
     },
     {
         "address": "0x2B58C0",
