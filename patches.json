@@ -106,5 +106,29 @@
     {
         "address": "0x424180",
         "data": "1F 20 03 D5"
+    },
+    {
+        "address": "0x12E8B8",
+        "data": "C0 03 5F D6"
+    },
+    {
+        "address": "0x125A98",
+        "data": "C0 03 5F D6"
+    },
+    {
+        "address": "0x1251F8",
+        "data": "C0 03 5F D6"
+    },
+    {
+        "address": "0x11AD84",
+        "data": "C0 03 5F D6"
+    },
+    {
+        "address": "0x11AC3C",
+        "data": "C0 03 5F D6"
+    },
+    {
+        "address": "0x11AB68",
+        "data": "C0 03 5F D6"
     }
 ]
