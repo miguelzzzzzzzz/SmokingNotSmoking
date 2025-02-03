@@ -49,31 +49,7 @@
     },
     {
         "address": "0x118A28",
-        "data": "1F 00 00 10"
-    },
-    {
-        "address": "0x118A2C",
-        "data": "C0 03 5F D6"
-    },
-    {
-        "address": "0x134EF8",
-        "data": "1F 00 00 10"
-    },
-    {
-        "address": "0x134EFC",
-        "data": "C0 03 5F D6"
-    },
-    {
-        "address": "0x1A10AC",
-        "data": "00 00 80 D2"
-    },
-    {
-        "address": "0x1A10B0",
-        "data": "C0 03 5F D6"
-    },
-    {
-        "address": "0x1BE798",
-        "data": "00 00 80 D2"
+        "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
         "address": "0x1BE79C",
