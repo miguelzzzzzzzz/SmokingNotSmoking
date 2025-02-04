@@ -9,19 +9,19 @@
     },
     {
         "address": "0x240928",
-        "data": "C0 03 5F D6 63 84 C5 15"
+        "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
         "address": "0x242B58",
-        "data": "D8 7B C5 15 FD 7B 09 A9"
+        "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
         "address": "0x243FE8",
-        "data": "56 6C FA 97 B3 76 C5 15"
+        "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
         "address": "0x244508",
-        "data": "0E 6B FA 97 6B 75 C5 15"
+        "data": "00 00 80 D2 C0 03 5F D6"
     },
     {
         "address": "0x134770",
